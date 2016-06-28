@@ -9,13 +9,16 @@ A = [];
 %               represent the return values (at the top of the file)
 %               and then set them accordingly. 
 
-
-
+% For info about what this "eye" function is:
+% www.delorie.com/gnu/docs/octave/octave_134.html
+% Assign the output of the eye function to the A variable:
+A = eye(5);
 
 
 
 
 % ===========================================
+
 
 
 end
